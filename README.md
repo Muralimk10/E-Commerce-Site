@@ -9,7 +9,7 @@ A simple front-end e-commerce web application built using HTML, CSS, JavaScript,
 ⚡ Interactive UI using JavaScript & TypeScript
 
 🛠️ Tech Stack
-HTML5 – Structure of the web pages
+HTML – Structure of the web pages
 CSS3 – Styling and layout
 JavaScript (ES6+) – Interactivity
 TypeScript – Type-safe scripting
