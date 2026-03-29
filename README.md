@@ -10,11 +10,10 @@ A simple front-end e-commerce web application built using HTML, CSS, JavaScript,
 
 🛠️ Tech Stack
 HTML – Structure of the web pages
-CSS3 – Styling and layout
-JavaScript (ES6+) – Interactivity
-TypeScript – Type-safe scripting
-🎯 Learning Objectives
+CSS – Styling and layout
+JavaScript – Interactivity
 
+🎯 Learning Objectives
 This project helped in understanding:
 DOM manipulation using JavaScript
 Type safety with TypeScript
